@@ -1,0 +1,3 @@
+/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 16/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 16/cmake-build-debug/CMakeFiles/Drill_16.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 16/main.cpp
+iostream
+-
+vector
+-
+list
+-
+array
+-
+
