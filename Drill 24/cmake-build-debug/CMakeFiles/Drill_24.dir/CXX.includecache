@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 24/drill_24_tools/Matrix.h
+string
+-
+algorithm
+-
+
+/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 24/drill_24_tools/MatrixIO.h
+iostream
+-
+Matrix.h
+/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 24/drill_24_tools/Matrix.h
+
+/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 24/main.cpp
+iostream
+-
+iomanip
+-
+cmath
+-
+complex
+-
+cerrno
+-
+drill_24_tools/Matrix.h
+/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 24/drill_24_tools/Matrix.h
+drill_24_tools/MatrixIO.h
+/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 24/drill_24_tools/MatrixIO.h
+
