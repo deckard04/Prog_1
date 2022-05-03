@@ -46,11 +46,12 @@ int main() {
         msi["xz"] = 423;
         print(msi);
 
-        msi.erase("a");
+        msi.erase(msi.begin(), msi.end());
         print(msi);
 
         std::cout << "Write in 10 key value pairs" << std::endl;
         read_map(msi);
+        cout << endl;
         print(msi);
 
         sumOfElements(msi);

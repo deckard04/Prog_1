@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 24/main.cpp" "/Users/deckard/Desktop/tanulmanyok/Prog_1/Drill 24/cmake-build-debug/CMakeFiles/Drill_24.dir/main.cpp.o"
+  "/Users/deckard/Desktop/tanulmanyok/prog1/Prog_1/Drill 24/main.cpp" "/Users/deckard/Desktop/tanulmanyok/prog1/Prog_1/Drill 24/cmake-build-debug/CMakeFiles/Drill_24.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

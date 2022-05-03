@@ -67,9 +67,8 @@ int main(){
 
     std::cout << "The mean of vd is: " << vd_mean << '\n';
 
-    // 9. Make a new vector<double> and copy all elements from vd that are less
-    // than vd's mean.
-    std::vector<double> vd2 (vd.size());    // too big?
+
+    std::vector<double> vd2 (vd.size());
 
     auto it = std::copy_if(vd.begin(), vd.end(), vd2.begin(),
             Less_than(vd_mean));
@@ -77,7 +76,7 @@ int main(){
 
     print(vd2);
 
-    // 10. Sort vd, output it again
+  
     std::sort(vd.begin(), vd.end());
 
     print(vd);
